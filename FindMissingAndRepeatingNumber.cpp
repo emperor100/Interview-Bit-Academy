@@ -1,4 +1,4 @@
-/* A tribute to great IBAcademy team and Ram Sir */
+/* A tribute to IBAcademy team and Ram Sir */
 
 
 /* 
